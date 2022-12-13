@@ -8,7 +8,7 @@
 		<title>Insert title here</title>
 	</head>
 	<body>
-		Ooop!
+		Ooop!!
 		<hr />
 		<%
 			out.print(exception);
